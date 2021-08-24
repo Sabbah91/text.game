@@ -1,2 +1,2 @@
 # text.game
-Hope you enjoy the game
+I hope you enjoy the game
